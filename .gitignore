@@ -1,0 +1,16 @@
+# Python & Ambientes Virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Dados Brutos Muito Pesados (>50MB) - os dados otimizados estão em data/educacao_conectada.csv.gz (2MB)
+br_simet_educacao_conectada_escola.csv
