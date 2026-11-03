@@ -8,14 +8,14 @@ Aplicação interativa desenvolvida com **Streamlit** e **Plotly** para a **Ativ
 
 ```text
 dashboard_educacao_conectada/
-├── app.py                     # Aplicação principal Streamlit
-├── requirements.txt           # Dependências do projeto (streamlit, plotly, pandas, numpy)
-├── .gitignore                 # Arquivos ignorados pelo Git (venv, caches, etc.)
-├── README.md                  # Documentação completa e guia de deploy
-├── assets/                    # Figuras descritivas estáticas
+├── app.py                     
+├── requirements.txt           
+├── .gitignore                 
+├── README.md                  
+├── assets/                    
 │   ├── banner_perfil_escolas.png
 │   └── matriz_correlacao_redes.png
-└── data/                      # Base de dados otimizada e comprimida (2 MB)
+└── data/                      
     └── educacao_conectada.csv.gz
 ```
 
